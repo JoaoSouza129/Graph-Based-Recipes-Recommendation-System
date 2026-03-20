@@ -1,0 +1,15 @@
+r001,chicken,cinnamon,soy_sauce,onion,ginger
+r002,butter,pepper,onion,cardamom,cayenne,ginger,cottage_cheese,garlic,brassica
+r003,olive_oil,pepper,wheat,beef,onion,cardamom,cumin,garlic,rice,leek
+r004,honey,wheat,yeast
+r005,tomato,cilantro,lemon_juice,onion,cayenne,scallion
+r006,wheat,cassava
+r007,olive_oil,onion,potato,black_pepper,cumin,carrot,cabbage,turmeric
+r008,cardamom,coconut,pumpkin
+r009,chicken,onion
+r010,butter,orange,almond,pear,cinnamon
+r011,olive_oil,lemon_juice,lemon
+r012,orange,olive_oil,scallion,wheat,date
+r013,tomato,olive_oil,wheat,bell_pepper,garlic,cayenne
+r014,coriander,sesame_seed,black_pepper,cumin,hazelnut
+r015,butter,macaroni,wheat,onion
